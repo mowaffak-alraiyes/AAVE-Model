@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/moalraiyes/Desktop/AAVE Model/best_model_alert_monitor.py", line 6, in <module>
+    from data_fetcher import AAVEDataFetcher
+  File "/Users/moalraiyes/Desktop/AAVE Model/data_fetcher.py", line 6, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
